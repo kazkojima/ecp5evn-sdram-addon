@@ -2,10 +2,10 @@
 
 KiCAD files of a simple RAM addon for Lattice LEF5UM5G-85G
 
-![print board](https://github.com/kazkojima/ecp5evn-sdr-addon/blob/main/images/sdram-addon-board.png)
+![print board](https://github.com/kazkojima/ecp5evn-sdram-addon/blob/main/images/sdram-addon-board.png)
 
 
-![LEF5UM5G-85G+addon](https://github.com/kazkojima/ecp5evn-sdr-addon/blob/main/images/sdram-addon.png)
+![LEF5UM5G-85G+addon](https://github.com/kazkojima/ecp5evn-sdram-addon/blob/main/images/sdram-addon.png)
 
 ## LiteX/[litex-boards](https://github.com/litex-hub/litex-boards.git) platform hunk of the addon
 
